@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Beytu\OneDrive\Desktop\VSformat\BarebonesClient\Barebones_Client\main.cpp(82,74): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Beytu\OneDrive\Desktop\VSformat\BarebonesClient\Barebones_Client\main.cpp(118,74): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Beytu\OneDrive\Desktop\VSformat\BarebonesClient\Barebones_Client\main.cpp(154,73): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Beytu\OneDrive\Desktop\VSformat\BarebonesClient\Barebones_Client\main.cpp(159,68): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Beytu\OneDrive\Desktop\VSformat\BarebonesClient\Barebones_Client\main.cpp(172,68): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Beytu\OneDrive\Desktop\VSformat\BarebonesClient\Barebones_Client\main.cpp(185,68): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Beytu\OneDrive\Desktop\VSformat\BarebonesClient\Barebones_Client\main.cpp(195,70): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Barebones_Client.vcxproj -> C:\Users\Beytu\OneDrive\Desktop\VSformat\BarebonesClient\x64\Debug\Barebones_Client.exe
